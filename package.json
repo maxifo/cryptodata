@@ -1,0 +1,20 @@
+{
+  "name": "@maxifo/cryptodata",
+  "version": "1.1.4",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Crypto API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "bitcoin",
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Max Forsström",
+  "license": "ISC"
+}
